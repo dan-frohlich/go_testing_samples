@@ -1,4 +1,4 @@
-# Project Title
+# Go Testing Workout
 
 Some Samples to illustrate testing go code.
 
