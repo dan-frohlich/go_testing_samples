@@ -1,3 +1,5 @@
+package service 
+
 //CatalogMock mock a Catalog
 type CatalogMock struct {
 	search func(query string) []SearchHit
