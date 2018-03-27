@@ -2,17 +2,22 @@
 
 ## Topics
 
-### 1 Testing Basics.
+### The Basics
+* `go test` Your Code
+* Using the `testing` Standard Library
+* Writing Testable Go Code
 
-### 2 Testing Interfaces
+### Mocking
 
-### 3 Mocking Interfaces with the standard lib
+* Mocking Interfaces on the Cheap with the Standard Library
+* Mocking with the GoMock Library
 
-### 4 Mocking with GoMock
+### Advanced Topics
 
-### 5 Integration Testing With Build Tags
-
-### 6 Deep Dive
+* Manage Integration Testing with Build Tags
+* Deep Dive into an Example Application
+* Test for Race Conditions
+* Fuzz Testing your Surface
 
 ## Use the Source
 * https://github.com/dan-frohlich/go_testing_samples
